@@ -54,14 +54,14 @@ Also, I participated in preparing the Week3 Project Plan & Roles Allocation Pres
 - Proposed to use firebase in our project.
 
 #### Details
-In week3, I was assigned to a demo & poster role. During the tutorial, our group did one presentation to introduce our project’s basic information and each group member's role. As I was the demo & poster, I was the first one to introduce during the presentation and I am responsible for introducing the responsibilities of each team member. As always, we had a meeting with the client on Tuesday. During this meeting, I contributed to ask some more detailed questions about the client’s requirement using my prepared question list before. During this meeting, we learned more about the client's requirements. 
-[*meeting with client:*]  
+In week3, I was assigned to a demo & poster role. During the tutorial, our group did one presentation to introduce our project’s basic information and each group member's role. As I was the demo & poster, I was the first one to introduce during the presentation and I am responsible for introducing the responsibilities of each team member. As always, we had a meeting with the client on Tuesday. During this meeting, I contributed to ask some more detailed questions about the client’s requirement using my prepared question list before. During this meeting, we learned more about the client's requirements.   
+[*meeting with client:*]    
 ![client_meeting](./week3/week3_client.png)  
 Thus, in Thursday's group meeting, we improved our scope and user stories based on requirements modified. Then I and Lawrence uploaded all our user stories to the Jira board.  
 [*user story modified:*] 
 ![story](./week3/story.png)    
 [*jira:*]
-![jira]()  
+![jira](./week3/jira.png)  
 That week, during the group meeting, our group members designed the UI/UX together. Firstly, we planned to use Figma to draw the UI together, but we found this to be inefficient. Because each group member used different tools to draw UI before, we are not familiar with Figma. Then, we decided to draw the UI/UX draft on the whiteboard together and then Andrew is responsible for rendering the sketch on the Figma. I contributed to participating in designing processing and used my previous front-end developing experience to recommend some components design.
 [*UI/UX design:*]  
 ![UI](./week3/UI.jpg) 
@@ -102,7 +102,7 @@ We have improved our scope documentation and user stories as customer needs chan
 ![user_story](./week4/story.png)  
 And this week, we found that our Jira board writing method is not suitable for our project. Because we will design and write code about the front-end first and then link the database and write logic on the back-end part. Thus, we thought that our task needed to separate the UI and logic part. I and Andrew modified our Jira content.   
 [*Jira*]  
-![JIra](./week4/)  
+![JIra](./week4/jira.png)  
 During week4, I rented a mac computer and installed the environment needed for development, including downloaded xcode, linked the BItbucket, set up the firebase and so on. And this week, I found a course in Stanford teaching iOS development. I looked at some lectures to learn how to write swift and how to develop an ios app.
 [*coding environment:*]  
 ![environment](./week4/environment.png)  
@@ -112,7 +112,14 @@ During week4, I rented a mac computer and installed the environment needed for d
 
 ## The extent of the work
 ### Technical part
+- In week3, during the group meeting, we all together drew the UI/UX design on the whiteboard. And these designs are all approved by the client during the week4’s client meeting.     
+[*UI/UX draft*]    
+![draft](./content/UI.jpg)
+- After week4’s client meeting, based on the client’s new requirements, we needed to add four more functions in our application. Thus, we worked together to improve our UI/UX design in the meeting and showed them to the client. Finally, all current requirements UI/UX designs are all approved by the client and we can start to code developing.      
+[*UI/UX:*]  
+![design](./content/design.png)
 ### Non-Technical part
+
 
 
 ## Quality of technical work done
