@@ -120,8 +120,16 @@ During week4, I rented a mac computer and installed the environment needed for d
 ![design](./content/design.png)
 ### Non-Technical part
 - In the week2, I participated in writing and improving scope, contract, and deep roll files. All these files submitted on the Canvas. The scope file was approved by the client and got the client signed. 
-- In the week2, I participated in writing a question list about some details needed to ask for the client in the next week’s meeting with the client. And as the plan all these questions I asked in week3.
+- In the week2, I participated in writing a question list about some details needed to ask for the client in the next week’s meeting with the client. And as I plan all these questions I asked in week3.
 - In the week3, I participated in a presentation during the tutorial about each group member's responsibilities. 
+- In the week3, I participated in a meeting with the client to ask some more detailed requirements about our project.
+- In the week3, I participated in improving the scope, user stories files. Updated on our wiki.
+- In the week3, I participated in uploading half of the user stories on the Jira. They showed it to our JIra.
+- In the week4, I participated in demonstanstarting with the client about our UI/UX. We received approval about our design but also received some extra requirements.
+- In the week4, I participated in a meeting with the client to record the client’s feedback. And share all the feedback in our Slack channel. 
+- In the week4, I participated in improving our scope and user stories. All these files can be seen on the Wiki.
+- In the week4, I participated in modifying the user stories on the Jira. Seperated the UI and function part. 
+- In the week4, I participated in writing the progressive report. 
 
 
 
