@@ -70,3 +70,63 @@ And in week3, I researched a lot and recommended using firebase in our project. 
 [*firebase:*]
 ![firebase](./week3/firebase.png) 
 
+
+### Week 4: Reporter writer
+#### XP roles: Reporter writer
+
+#### weekly plan: 
+- Chatting with clients about our designed UI/UX.
+- Assign development tasks within the group.
+- Learning iOS develops knowledge.
+
+#### Actually done:
+- Demonstrated with the client about our design. 
+- During the meeting with the client, I recorded the client's feedback.
+- Improved our scope and user story.
+- Modified the user story on Jira.
+- Wrote the progressive report.
+- Leant some knowledge about iOS development.
+- Set up the coding environment.
+
+#### Details:
+As the reporter writer, in week4, I wrote the progressive report and recorded the individual report requirements and shared them with group members.  
+[*progressive report:*]  
+![progreesive_report](./week4/report.png)  
+[*individual report requirements:*]  
+![individual_report](./week4/individual.png)  
+This week, our group goals are demonstrating the UI/UX design with clients and from feedback to improve our design. We met the client on Tuesday, from the meeting, our design approved majority, but added four more requirements. I recorded the client’s requirements and shared them in our slack channel.  
+[*meeting record:*]  
+![meeting_record](./week4/client_record.png)  
+We have improved our scope documentation and user stories as customer needs change.  
+[*user story:*]  
+![user_story](./week4/story.png)  
+And this week, we found that our Jira board writing method is not suitable for our project. Because we will design and write code about the front-end first and then link the database and write logic on the back-end part. Thus, we thought that our task needed to separate the UI and logic part. I and Andrew modified our Jira content.   
+[*Jira*]  
+![JIra](./week4/)  
+During week4, I rented a mac computer and installed the environment needed for development, including downloaded xcode, linked the BItbucket, set up the firebase and so on. And this week, I found a course in Stanford teaching iOS development. I looked at some lectures to learn how to write swift and how to develop an ios app.
+[*coding environment:*]  
+![environment](./week4/environment.png)  
+[*Stanford course:*]
+![customer](./week4/cs193p.png)  
+
+
+## The extent of the work
+### Technical part
+### Non-Technical part
+
+
+## Quality of technical work done
+- In order to ensure the smooth progress of IOS software development and avoid problems such as environment incompatibility, all members of the team have prepared a MAC notebook equipped with a MACOS environment.
+- We use Apple's official development environment Xcode and official language Swift for application development to ensure that the developed app is suitable for IPHONE mobile phones.
+- We use firebase to simplify the code complexity, achieve a lightweight backend and do not require additional operations such as deploying servers. Also in line with the client's requirements for complete project delivery.
+- We use Jira for project management, clearly showing everyone's tasks, showing what needs to be done, what's in progress, and what's done.
+- We use Bitbucket for code management, and each team member writes code in their own branch. Then through the meeting everyone reviews code and then merges to the main branch to ensure code quality and no conflict situation.
+
+
+
+## Other contributions to group processes
+- Much of our team's projects so far have been done by everyone, by brainstorming and co-designing or writing documentation.
+- All of our current meetings are attended by the whole house and no one is absent.
+- Everyone in our group is actively in contact, we solve problems together, and are very active in Slack app,
+- The workload of each team member so far may be different, that is because our project has just started and everyone is good in different directions. In the future development and testing activities, everyone will work hard to do their part. All tasks assigned are the result of a joint discussion.
+
