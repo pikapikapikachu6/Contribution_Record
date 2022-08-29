@@ -153,5 +153,8 @@ During week4, I rented a mac computer and installed the environment needed for d
 - All of our current meetings are attended by the whole house and no one is absent.
 - Everyone in our group is actively in contact, we solve problems together, and are very active in Slack app.
 - The workload of each team member so far may be different, that is because our project has just started and everyone is good in different directions. In the future development and testing activities, everyone will work hard to do their part. All tasks assigned are the result of a joint discussion.
+[*meeting:*]
+![meeting](./content/meeting_record.png)
+![meeting](./content/meeting_record1.png)
 
 
