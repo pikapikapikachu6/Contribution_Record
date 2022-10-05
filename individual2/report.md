@@ -27,10 +27,10 @@
         In the week 5, act as a tracker and manage the XP role. It was my responsibility and duty to call the group to meet, record the meeting, assign tasks and work with everyone to complete them. Therefore, during the week, I contributed to documenting the task requirements for week 5, called the meeting, prepared before the meeting, wrote three meeting minutes including one meeting with the client and two meetings with our group, wrote the to-do list, assigned tasks to each member and did the section on testing both when writing the report and when doing the presentation, and finally completed the 360 degree contribution review.
 
     - **week 6**   
-        In week 6, in my role as a tester, I completed the section of the group report and presentation on testing. I also prepared for the presentation with the client in week 7 by making the PPT slides on the testing part and preparing the presentation transcript on the testing part. 
+        In week 6, in my role as a tester, I completed the section of the group report and presentation on testing. I also prepared for the presentation with the client in week 7 by making the PPT slides on the testing part and preparing the presentation transcript on the testing part. Also I contributed in writing the group contract from week 6 to week 13. 
 
     - **week 7**  
-        In week 7, my role as Customer Liaison, I contacted the client a week in advance of the meeting to set up a time and address for the presentation about the week. During the presentation, I made a recorded contribution. And after the meeting with the client, I compiled and recorded the feedback from the client. Also I contributed in writing the group contract from week 6 to week 13. 
+        In week 7, my role as Customer Liaison, I contacted the client a week in advance of the meeting to set up a time and address for the presentation about the week. During the presentation, I made a recorded contribution. And after the meeting with the client, I compiled and recorded the feedback from the client. 
         
     - **week 8**  
         In week 8, my role was that of a tester, but I contributed to the group by contacting customers and writing the progressive report. I contacted the client and offered to suspend a client meeting because there was no new intuitive page functionality available to her at the moment. And I started preparing and writing our progressive report.
@@ -40,7 +40,7 @@
 |----------|:-------------|:------|
 | week 5 | <li> Write the group report. <li> Write the individual report. <li> Prepare the presentation. <li> Show the current process to the client. | <li> Finished the group report. <li> FInished the individual report <li> FInished the presentation slides. <li> Recorded the presentation <li> Met a client and got feedback. <li> Researched and learnt something about testing. <li> Set the function testing platform. <li> Wrote some test cases for function testing. <li> Recorded three meeting minutes <li> Finished the to-do list.|
 | week 6 | <li> Do the in-tutorial presentation. <li> Prepare the client demo. <li> Write test cases for function testing. | <li> Finished the in-tutorial presentation. <li> Prepared the client demo. <li> Finsihedc the demo slides. <li> Finished writing test cases for function testing. <li> Finished the group contract file for week 6 to week13. |
-| week 7 | <li> Do the presentation with the client. <li> Plan to meet the client and get feedback. | <li> Finished the presentation with client. <li> Met the client and got feedack. <li> Recorded the presentation. <li> Compiled and recorded the feedback from the client. <li> Contributed in writing the group contract |
+| week 7 | <li> Do the presentation with the client. <li> Plan to meet the client and get feedback. | <li> Finished the presentation with client. <li> Met the client and got feedack. <li> Recorded the presentation. <li> Compiled and recorded the feedback from the client. |
 | week 8 | <li> Write the "like" feature. | <li> Finished the "like" feature. <li> Contacted with the client to update our progress. <li> Prepared the progressive report.|
 
 ## The extent of the work
@@ -96,14 +96,53 @@ As a tester, from week 6 to week 7, I contributed in writing all the test cases 
 [*zentao*]    
 ![zentao](./week6/zentao.png) 
 
-As a tester, I contributed in finished well in writing testing part in group report and doing testing part in presentation. They all can be showed in the feedback from these two tasks.
+As a tester, I contributed in finished well in writing testing part in group report and doing testing part in presentation.  
+[*report_feedback*]    
+![report_feedback](./week6/report_feedback.png)
 
+As a tester, I contributed in preparing for the client demo including doing PPT slides and preparing demo transcripts both about the testing part.   
+[*demo*]    
+![demo_1](./week6/demo/34.png)
 
-As a group member, 
+[*demo*]    
+![demo_1](./week6/demo/35.png)
+
+[*demo*]    
+![demo_1](./week6/demo/36.png)
+
+[*demo*]    
+![demo_1](./week6/demo/37.png)
+
+[*demo*]    
+![demo_1](./week6/demo/38.png)
+
+[*demo*]    
+![demo_1](./week6/demo/39.png)
+
+[*demo*]    
+![demo_1](./week6/demo/40.png)
+
+[*demo*]    
+![demo_1](./week6/demo/41.png)
+
+[*demo*]    
+![demo_1](./week6/demo/42.png)
+
+[*transcript_1*]    
+![transcript_1](./week6/transcript1.png)
+
+[*transcript_2*]    
+![transcript_2](./week6/transcript2.png)
+
+As a group member, I contributed in writing the group contract file.  
+[*group_contract*]    
+![group_contract](./week6/group_contract.png)
 
 ### week 7
 
+
 ### week 8
+
 
 ## Quality of technical work done
 
