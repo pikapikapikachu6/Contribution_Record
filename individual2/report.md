@@ -16,7 +16,7 @@
     - **week 5**  
         In the week 5, as the role of tracking and managing XP, I created a project on the Zentao platform to facilitate the documentation of functional tests. Then I learned something about functional testing and learned how to use the Zentao platform. Finally I wrote some test cases for functional tests.
 
-    - **week 6 and week7**  
+    - **week 6 and week 7**  
         From the week 6 to week 7, as the role of tester in week 6 and the role of Customer Liaison, I finished writing all the test cases for function testing on the Zentao platform. And do some research on how to do the other testing in our project. 
 
     - **week 8**  
@@ -92,6 +92,14 @@ And I am also responsible for the testing part of the presentation. Thus, I cont
 ![presentation_slides_3](./week5/slides3.png) 
 
 ### week 6
+As a tester, from week 6 to week 7, I contributed in writing all the test cases for the function testing. I separated the test cases into different modules based on different pages in our app. And then wrote detailed test cases based on the functional points of each page.  
+[*zentao*]    
+![zentao](./week6/zentao.png) 
+
+As a tester, I contributed in finished well in writing testing part in group report and doing testing part in presentation. They all can be showed in the feedback from these two tasks.
+
+
+As a group member, 
 
 ### week 7
 
