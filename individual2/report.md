@@ -70,7 +70,7 @@ During the first group meeting, we discussed this week’s tasks and assigned th
 [*to_do_list*]    
 ![to_do](./week5/to_do.png)  
 
-And the manager, I contributed in creating a new project and set up the function testing environment on the Zentao platform and then wrote some test cases. On the Zentao platform, I can create each test case clearly. It includes each test case running prerequisite, the test cases belonging to which modules, the testing type, the priority, the test case current status and so on information. And It shows each step clearly, when executing the test case, can directly record the result when clicking the “run” button. It can record each step's running result such as “pass”, “fail”, “blocked” and so on.  
+And the manager, I contributed in creating a new project and set up the function testing environment on the Zentao platform and then wrote some test cases. 
 [*zentao*]    
 ![zentao](./week5/zentao.png)  
 
@@ -145,7 +145,29 @@ As a group member, I contributed in writing the group contract file.
 
 
 ## Quality of technical work done
+I contributed to chosing to use zentao platform to ensures that our function testings are complete and viewable. On the Zentao platform, I can create each test case clearly. It includes each test case running prerequisite, the test cases belonging to which modules, the testing type, the priority, the test case current status and so on information. And It shows each step clearly, when executing the test case, can directly record the result when clicking the “run” button. It can record each step's running result such as “pass”, “fail”, “blocked” and so on    
+[*quality_zentao*]    
+![quality_zentao](./other/quality_zentao.png)
+
+I contributed to choosing to use Equivalence partitioning and Boundary testing two methods to ensure that our test cases coverage is good. For example, we write a test case where some boundary value that the input node must at least exist one. Using these techniques can improve our test cases quality and can make our test cases more comprehensive and complete in design.  
+[*quality_method*]    
+![quality_method](./other/quality_method.png)
+
 
 ## Other contributions to group processes
+I contributed to attending meetings every time. I have not missed a group meeting or meeting with a client. And I contributed to recording feedback from every meeting with clients.   
+[*feedback*]    
+![feedback](./other/feedback.png)
+
+I contributed to completing assigned tasks on time and responding to messages promptly. For example, I was assigned to send an email to the client, then I will finish immediately. And when other members need some, I will reply and provide quickly.
+[*on_time*]    
+![on_time](./other/ontime_assigned.png)
+
+[*on_time*]    
+![on_time](./other/ontime_finished.png)
+
+I contributed in using my experience to help our project in the testing part. I have some software testing experience before but they are not iOS application related. Thus, I also need to do some research on iOS testing. But compared to our group members, I may be more familiar with the testing, then in group report, presentations, I did the testing part. And I was assigned the XP roles as the tester more frequently. 
+[*group_contract*]    
+![group_contract](./other/contract.png)
 
 
