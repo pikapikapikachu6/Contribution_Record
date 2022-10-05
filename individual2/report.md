@@ -27,13 +27,13 @@
         In the week 5, act as a tracker and manage the XP role. It was my responsibility and duty to call the group to meet, record the meeting, assign tasks and work with everyone to complete them. Therefore, during the week, I contributed to documenting the task requirements for week 5, called the meeting, prepared before the meeting, wrote three meeting minutes including one meeting with the client and two meetings with our group, wrote the to-do list, assigned tasks to each member and did the section on testing both when writing the report and when doing the presentation, and finally completed the 360 degree contribution review.
 
     - **week 6**   
-        In week 6, in my role as a tester, I completed the section of the group report and presentation on testing. I also prepared for the presentation with the client in week 7 by making the PPT slides on the testing part and preparing the presentation transcript on the testing part. Also I contributed in writing the group contract from week 6 to week 13. 
+        In week 6, in my role as a tester, I completed the section of the group report and presentation on testing. I also prepared for the presentation with the client in week 7 by making the PPT slides on the testing part and preparing the presentation transcript on the testing part. Also I contributed to writing the group contract from week 6 to week 13. 
 
     - **week 7**  
         In week 7, my role as Customer Liaison, I contacted the client a week in advance of the meeting to set up a time and address for the presentation about the week. During the presentation, I made a recorded contribution. And after the meeting with the client, I compiled and recorded the feedback from the client. 
         
     - **week 8**  
-        In week 8, my role was that of a tester, but I contributed to the group by contacting customers and writing the progressive report. I contacted the client and offered to suspend a client meeting because there was no new intuitive page functionality available to her at the moment. And I started preparing and writing our progressive report.
+        In week 8, my role was that of a tester, but I contributed to the group by contacting the client and writing the progressive report. I contacted the client and offered to suspend a client meeting because there was no new intuitive page functionality available to her at the moment. And I started preparing and writing our progressive report.
 
 ### Weekly Plan
 | Week | Work Planned | Work Completed |
@@ -45,15 +45,15 @@
 
 ## The extent of the work
 ### week 5
-As the Tracking & Manager, during the tutorial, I contributed in recording the week5 tasks requirements and shared them with my group on Slack.   
+As the Tracking & Manager, during the tutorial, I contributed to recording the week5 tasks requirements and shared them with my group on Slack.   
 [*week5_requirements*]    
 ![week5_requirements](./week5/requirements.png) 
 
-As the manager, before the meeting, I contributed in making some preparations including declaring the group meeting content and creating the file on the google drive to let our group work together.  
+As the manager, before the meeting, I contributed to making some preparations including declaring the group meeting content and creating the file on the google drive to let our group work together.  
 [*meeting_preparations*]    
 ![meeting_preparations](./week5/meeting_prepare.png) 
 
-As the manager, I contributed in writing the week5' wiki and recording three meeting minutes including one meeting with the client and two meetings with our group. During the meeting with the client, we showed our progress and got feedback from the client that all is well done but we need to show more features in the next meeting. During our first group meeting, we assigned each member tasks about group report and presentation and then wrote the group report together. During the second group meeting, we finished our presentation slides and recorded the presentation.    
+As the manager, I contributed to writing the week5' wiki and recording three meeting minutes including one meeting with the client and two meetings with our group. During the meeting with the client, we showed our progress and got feedback from the client that all is well done but we need to show more features in the next meeting. During our first group meeting, we assigned each member tasks about group report and presentation and then wrote the group report together. During the second group meeting, we finished our presentation slides and recorded the presentation.    
 [*wiki*]    
 ![wiki](./week5/wiki.png)   
 
@@ -66,22 +66,22 @@ As the manager, I contributed in writing the week5' wiki and recording three mee
 [*second_group_minutes*]    
 ![second_group](./week5/second_group.png)   
 
-During the first group meeting, we discussed this week’s tasks and assigned them to each group member. As the manager, I contributed in writing the to-do list posted on Slack.  
+During the first group meeting, we discussed this week’s tasks and assigned them to each group member. As the manager, I contributed to writing the to-do list posted on Slack.  
 [*to_do_list*]    
 ![to_do](./week5/to_do.png)  
 
-And the manager, I contributed in creating a new project and set up the function testing environment on the Zentao platform and then wrote some test cases. 
+And the manager, I contributed to creating a new project and set up the function testing environment on the Zentao platform and then wrote some test cases. 
 [*zentao*]    
 ![zentao](./week5/zentao.png)  
 
 [*zentao_details*]    
 ![zentao_details](./week5/zentao_details.png)  
 
-As a group member, I contributed in researching and learning some knowledge about testing and finishing all parts about testing in the group report.  
+As a group member, I contributed to researching and learning some knowledge about testing and finishing all parts about testing in the group report.  
  [*group_report*]    
 ![group_report](./week5/report.png) 
 
-And I am also responsible for the testing part of the presentation. Thus, I contributed in finishing the presentation slides about testing and recording the representation.    
+And I am also responsible for the testing part of the presentation. Thus, I contributed to finishing the presentation slides about testing and recording the representation.    
  [*presentation_slides_1*]    
 ![presentation_slides_1](./week5/slides1.png) 
 
@@ -92,15 +92,15 @@ And I am also responsible for the testing part of the presentation. Thus, I cont
 ![presentation_slides_3](./week5/slides3.png) 
 
 ### week 6
-As a tester, from week 6 to week 7, I contributed in writing all the test cases for the function testing. I separated the test cases into different modules based on different pages in our app. And then wrote detailed test cases based on the functional points of each page.  
+As a tester, from week 6 to week 7, I contributed to writing all the test cases for the function testing. I separated the test cases into different modules based on different pages in our app. And then wrote detailed test cases based on the functional points of each page.  
 [*zentao*]    
 ![zentao](./week6/zentao.png) 
 
-As a tester, I contributed in finished well in writing testing part in group report and doing testing part in presentation.  
+As a tester, I contributed to finished well in writing testing part in group report and doing testing part in presentation.  
 [*report_feedback*]    
 ![report_feedback](./week6/report_feedback.png)
 
-As a tester, I contributed in preparing for the client demo including doing PPT slides and preparing demo transcripts both about the testing part.   
+As a tester, I contributed to preparing for the client demo including doing PPT slides and preparing demo transcripts both about the testing part.   
 [*demo*]    
 ![demo_1](./week6/demo/34.png)
 
@@ -134,14 +134,38 @@ As a tester, I contributed in preparing for the client demo including doing PPT 
 [*transcript_2*]    
 ![transcript_2](./week6/transcript2.png)
 
-As a group member, I contributed in writing the group contract file.  
+As a group member, I contributed to writing the group contract file.  
 [*group_contract*]    
 ![group_contract](./week6/group_contract.png)
 
 ### week 7
-
+As a Customer Liaison, I contributed to recording our demo presentation. 
+[*recording*]   
+![recording](./week7/recording.jpeg)
+ 
+As a Customer Liaison, after the meeting with the client, I compiled and recorded the feedback from the client.  
+[*feedback*]   
+![feedback](./week7/feedback.png)
+ 
+As a group member, I contributed to the testing part in the demo presentation. 
+[*demo*]   
+![demo](./week7/demo.jpeg)
 
 ### week 8
+As a group member, I contributed in contacting the client to cancel client meetings, as we can't present more intuitive features at this time.
+[*contact_client*]   
+![contact_client](./week8/cancel.png)
+
+As a group member, I contributed to finishing the "like" feature. My logist is that when the user click the "like" button, then if initial status is empty then turn "like" which means the button will change colour and the total number of like will add one, and if the initial status is "like" then the turn cancel status which means the button will change to no colour and the total number of like will delete one. And each step will go through the process of getting the current number of "like" from the database, change the native status and number, and set the new number of "like" to the database.  
+commit link: https://bitbucket.org/zwan2773/soft3888_tu08_02/src/e0e409e89e57707998fce459856f4f07440f521a  
+[*commit_record*]   
+![commit_record](./week8/commit_record.png)
+
+[*empty_status*]   
+![empt_status](./week8/empty.png)
+
+[*like_status*]   
+![like_status](./week8/like.png)
 
 
 ## Quality of technical work done
@@ -166,7 +190,7 @@ I contributed to completing assigned tasks on time and responding to messages pr
 [*on_time*]    
 ![on_time](./other/ontime_finished.png)
 
-I contributed in using my experience to help our project in the testing part. I have some software testing experience before but they are not iOS application related. Thus, I also need to do some research on iOS testing. But compared to our group members, I may be more familiar with the testing, then in group report, presentations, I did the testing part. And I was assigned the XP roles as the tester more frequently. 
+I contributed to using my experience to help our project in the testing part. I have some software testing experience before but they are not iOS application related. Thus, I also need to do some research on iOS testing. But compared to our group members, I may be more familiar with the testing, then in group report, presentations, I did the testing part. And I was assigned the XP roles as the tester more frequently. 
 [*group_contract*]    
 ![group_contract](./other/contract.png)
 
