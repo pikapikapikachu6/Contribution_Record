@@ -61,6 +61,12 @@ Here are the raw file:
 Or  
 [P52-Recipe Recommendation and Diet Management based on Selected Food.-first function test-Case.csv](./week10/test.csv)  
 
+[*Test_report_summary:*]   
+![Test_report_summary:](./week10/report.png)  
+
+[*Test_report_graph:*]   
+![Test_report_graph:](./week10/graph.png)  
+
 As the project team, I researched a lot about how to do the unit testing and UI testing using the XCtest.
 [*Research:*]   
 ![Research:](./week10/research.png)  
@@ -72,9 +78,19 @@ As part of the project team, I tried to write the unit testing for our project. 
 ![Research_bug:](./week10/no_module.png)  
 
 ## Quality of technical work done
-I use the Zentao platform 
-[*quality_zentao*]    
-![quality_zentao](./other/quality_zentao.png)
+The Zentao platform ensures the quality of our functional tests. During these two weeks, I used this platform to complete the first functional tests for our project. I have written test cases according to our pre-development design before development. During the actual development process, we changed some designs according to the actual situation and customer's requirement changes. The current progress of our project is that we are about to finish the development. In week 10, I changed or removed some test cases based on the current design of our application. Then I added some more test cases according to the latest expectations.After fixing the test cases, I executed them one by one according to the current development results and recorded the corresponding test results.The advantage of using the Zentao platform is that the results of executing a test case can be recorded in detail, and if it fails, I will choose to record the current results next to the corresponding step. After all test cases are executed, I export all test cases and generate a test report. In this way, each functional test can be well recorded, which is convenient for us to carry out regression testing, and also helps the whole project and the client understand the quality of our tests.  
+[*Test_report:*]   
+![Test_report:](./other/test.png)    
+
+[*Test_report_summary:*]   
+![Test_report_summary:](./other/report.png)  
+
+[*Test_report_graph:*]   
+![Test_report_graph:](./other/graph.png)  
+
+[*Test_fail:*]   
+![Test_fail:](./other/fail.png)  
+
 
 ## Other contributions to group processes
 I contributed to attending meetings every time. I have not missed a group meeting or meeting with a client. And I contributed to recording feedback from every meeting with clients.   
