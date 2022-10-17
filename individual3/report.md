@@ -49,18 +49,23 @@ As part of the project team, I set up the unit testing environment. First I chos
 ![Unit_testing:](./week9/unit_testing.png)  
 
 ### week 10
-
+As the report writer, I assembled and worked with the rest of the project team to complete the week11 progressive report.
 [*Progressive_report:*]   
 ![Progressive_report:](./week10/progressive.png)  
 
+As a group team member, in the ninth week, I did the first functional test, because our project was modified during the actual development process and the original design, so I first cut our use case before testing and Edit, in the end, I actually tested 55 test cases, 33 passed, and still 22 are currently showing results that are not as expected, because our development is not complete, and there is a part of the code that has not been merged into the master branch.
+[*Test_report:*]   
+![Test_report:](./week10/test.png)  
+Here are the raw file:  
+[P52-Recipe Recommendation and Diet Management based on Selected Food.-first function test-Case.html](./week10/P52-Recipe%20Recommendation%20and%20Diet%20Management%20based%20on%20Selected%20Food.-first%20function%20test-Case.html)  
+Or  
+[P52-Recipe Recommendation and Diet Management based on Selected Food.-first function test-Case.csv](./week10/test.csv)  
 
-[P52-Recipe Recommendation and Diet Management based on Selected Food.-first function test-Case.csv](./week10/test.csv) 
-
-[P52-Recipe Recommendation and Diet Management based on Selected Food.-first function test-Case.html](./week10/P52-Recipe%20Recommendation%20and%20Diet%20Management%20based%20on%20Selected%20Food.-first%20function%20test-Case.html) 
-
-
+As part of the project team, I tried to write the unit testing for our project. But I failed in the import module, it always told me that “no such module..”. I researched a lot but still now haven’t handled this problem. 
 [*Unit_testing:*]   
 ![Unit_testing:](./week10/unit_testing.png)  
+[*Research_bug:*]   
+![Research_bug:](./week10/no_module.png)  
 
 ## Quality of technical work done
 I contributed to chosing to use zentao platform to ensures that our function testings are complete and viewable. On the Zentao platform, I can create each test case clearly. It includes each test case running prerequisite, the test cases belonging to which modules, the testing type, the priority, the test case current status and so on information. And It shows each step clearly, when executing the test case, can directly record the result when clicking the “run” button. It can record each step's running result such as “pass”, “fail”, “blocked” and so on    
@@ -70,7 +75,6 @@ I contributed to chosing to use zentao platform to ensures that our function tes
 I contributed to choosing to use Equivalence partitioning and Boundary testing two methods to ensure that our test cases coverage is good. For example, we write a test case where some boundary value that the input node must at least exist one. Using these techniques can improve our test cases quality and can make our test cases more comprehensive and complete in design.  
 [*quality_method*]    
 ![quality_method](./other/quality_method.png)
-
 
 ## Other contributions to group processes
 I contributed to attending meetings every time. I have not missed a group meeting or meeting with a client. And I contributed to recording feedback from every meeting with clients.   
