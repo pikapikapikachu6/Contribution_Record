@@ -97,15 +97,3 @@ I contributed to attending meetings every time. I have not missed a group meetin
 [*feedback*]    
 ![feedback](./other/feedback.png)
 
-I contributed to completing assigned tasks on time and responding to messages promptly. For example, I was assigned to send an email to the client, then I will finish immediately. And when other members need some, I will reply and provide quickly.
-[*on_time*]    
-![on_time](./other/ontime_assigned.png)
-
-[*on_time*]    
-![on_time](./other/ontime_finished.png)
-
-I contributed to using my experience to help our project in the testing part. I have some software testing experience before but they are not iOS application related. Thus, I also need to do some research on iOS testing. But compared to our group members, I may be more familiar with the testing, then in group report, presentations, I did the testing part. And I was assigned the XP roles as the tester more frequently. 
-[*group_contract*]    
-![group_contract](./other/contract.png)
-
-
