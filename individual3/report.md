@@ -27,8 +27,8 @@
 ### Weekly Plan
 | Week | Work Planned | Work Completed |
 |----------|:-------------|:------|
-| week 5 | <li> Plan to monitor Bitbucket process. <li> Plan to finish and submit the “like” function. | <li> Monitored Bitbucket process and ensured there is no merge conflict. <li> Finished and submitted the “like” function. <li> Setup the project unit testing environment.|
-| week 6 | <li> Plan to write progressive report. <li> Plan to do functional testing. | <li> Finished progressive report. <li> Finished the first time functional testing. <li> Generated the first testing report for functional testing. <li> Researched on how to write XCtest. <li> Tried to write unit testing. |
+| week 9 | <li> Plan to monitor Bitbucket process. <li> Plan to finish and submit the “like” function. | <li> Monitored Bitbucket process and ensured there is no merge conflict. <li> Finished and submitted the “like” function. <li> Setup the project unit testing environment.|
+| week 10 | <li> Plan to write progressive report. <li> Plan to do functional testing. | <li> Finished progressive report. <li> Finished the first time functional testing. <li> Generated the first testing report for functional testing. <li> Researched on how to write XCtest. <li> Tried to write unit testing. |
 
 ## The extent of the work
 ### week 9
