@@ -1,0 +1,888 @@
+"ID","Product","Module","Story","Title","Prerequisite","Step","Expectation","Details","Tags","Priority","Type","Phase","Status","B","R","S","RunBy","LastRun","Result","CreatedBy","CreatedDate","EditedBy","EditedDate","Case Version","Linked Cases","Files"
+"60","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/home page(#2)","","Change the ranking","Installed the app","1. Open the app
+2. See the default ranking
+3. Click the &quot;popularity&quot; 
+4. click &quot;rating&quot;","1. 
+2. ranking with popularity
+3. can click &quot;rating&quot;
+4. Showing the receipies with &quot;rating&quot;","1. 
+2. 
+3. 
+4.","","1","Feature","","Normal","0","2","4","Lavender","2022-10-16 22:50:18","Pass","Lavender","2022-10-16","Lavender","2022-10-16","1","","",""
+"59","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/more page(#5)","","Hitme","Installed the app","1. Open the app
+2. Click the &quot;More&quot; button at the menu bar
+3. Click the &quot;Hitme&quot; button","1. Open successfully, showing the home page
+2. Jump to the &quot;more&quot; page
+3. Showing the random recipe detailed page","1. 
+2. 
+3. no response","","1","Feature","
+Function Testing","Normal","0","2","3","Lavender","2022-10-16 22:48:40","Fail","Lavender","2022-09-11","","0000-00-00","1","","",""
+"58","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/more page(#5)","","delete one recipe from Blacklist page","Installed the app","1. Open the app
+2. Click the &quot;More&quot; button at the menu bar
+3. Click the &quot;blacklist&quot; button
+4. choose one recipe click &quot;blacklist&quot; button","1. Open successfully, showing the home page
+2. Jump to the &quot;more&quot; page
+3. show the blacklist page
+4. remove from blacklist","1. 
+2. 
+3. no “blacklist“ button
+4.","","1","Feature","
+Function Testing","Normal","0","2","4","Lavender","2022-10-16 22:48:51","Fail","Lavender","2022-09-11","","0000-00-00","1","","",""
+"57","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/more page(#5)","","show Blacklist page","Installed the app","1. Open the app
+2. Click the &quot;More&quot; button at the menu bar
+3. Click the &quot;blacklist&quot; button","1. Open successfully, showing the home page
+2. Jump to the &quot;more&quot; page
+3. show the blacklist page","1. 
+2. 
+3. no “blacklist“ button","","1","Feature","
+Function Testing","Normal","0","2","3","Lavender","2022-10-16 22:49:02","Fail","Lavender","2022-09-11","","0000-00-00","1","","",""
+"56","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Click “blacklist“ in Detailed page and choose cancel","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;egg&quot; into &quot;I like&quot; text input
+4. click &quot;submit&quot;
+5. see the page
+6. click one recipe
+7. click the &quot;blacklist&quot; button
+8. click &quot;cancel&quot;
+9. search again","1. open successfully
+2. Show the search page
+3. 
+4. All the recipes&#039; include &quot;egg&quot;
+5. shows the search results page
+6. jump to the recipe datailed page
+7. showing the alert page to let the user double check
+8. nothing happen
+9. the recipe shows again","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. no “blacklist“ button
+8. 
+9.","","1","Feature","","Normal","0","3","9","Lavender","2022-10-16 22:54:03","Fail","Lavender","2022-09-11","","0000-00-00","1","","",""
+"55","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Click “rating“ in Detailed page","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;egg&quot; into &quot;I like&quot; text input
+4. click &quot;submit&quot;
+5. see the page
+6. click one recipe
+7. choose the rating","1. open successfully
+2. Show the search page
+3. 
+4. All the recipes&#039; include &quot;egg&quot;
+5. shows the search results page
+6. jump to the recipe datailed page
+7. the star will be turned color from white to yellow","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7.","","1","Feature","","Normal","0","2","7","Lavender","2022-10-16 22:54:18","Pass","Lavender","2022-09-11","","0000-00-00","1","","",""
+"54","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Click “blacklist“ in Detailed page","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;egg&quot; into &quot;I like&quot; text input
+4. click &quot;submit&quot;
+5. see the page
+6. click one recipe
+7. click the &quot;blacklist&quot; button
+8. click &quot;confirm&quot;
+9. search again","1. open successfully
+2. Show the search page
+3. 
+4. All the recipes&#039; include &quot;egg&quot;
+5. shows the search results page
+6. jump to the recipe datailed page
+7. showing the alert page to let the user double check
+8. the recipe belongs to the blacklist and not appear any more
+9. the recipe doesn&#039;t show","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. no “blacklist“ button
+8. 
+9.","","1","Feature","","Normal","0","2","9","Lavender","2022-10-16 22:54:23","Fail","Lavender","2022-09-11","Lavender","2022-09-11","2","","",""
+"53","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Click “saved“ in Detailed page","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;egg&quot; into &quot;I like&quot; text input
+4. click &quot;submit&quot;
+5. see the page
+6. click one recipe
+7. click the &quot;saved&quot; button and choose one saved type","1. open successfully
+2. Show the search page
+3. 
+4. All the recipes&#039; include &quot;egg&quot;
+5. shows the search results page
+6. jump to the recipe datailed page
+7. the &quot;saved&quot; tab turn white to black","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. no response","","1","Feature","","Normal","0","2","7","Lavender","2022-10-16 22:54:36","Fail","Lavender","2022-09-11","","0000-00-00","1","","",""
+"52","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Click “favoritae“ in Detailed page","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;egg&quot; into &quot;I like&quot; text input
+4. click &quot;submit&quot;
+5. see the page
+6. click one recipe
+7. click the &quot;favorite&quot; button","1. open successfully
+2. Show the search page
+3. 
+4. All the recipes&#039; include &quot;egg&quot;
+5. shows the search results page
+6. jump to the recipe datailed page
+7. the &quot;favoriate&quot; tab turn white to black","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7.","","1","Feature","","Normal","0","1","7","Lavender","2022-10-16 22:54:55","Pass","Lavender","2022-09-11","","0000-00-00","1","","",""
+"51","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Detailed page include","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;egg&quot; into &quot;I like&quot; text input
+4. click &quot;submit&quot;
+5. see the page
+6. click one recipe
+7. detailed page include:
+7.1. the name
+7.2. the favoriate number
+7.3. the calorie
+7.4. the rating average mark
+7.5. the saved button
+7.6. the description
+7.7. the nutritions
+7.8. the ingredients
+7.9. the detailed methods
+7.10. the rating area
+7.11. the blacklist button","1. open successfully
+2. Show the search page
+3. 
+4. All the recipes&#039; include &quot;egg&quot;
+5. shows the search results page
+6. jump to the recipe datailed page
+7. 
+7.1. 
+7.2. 
+7.3. 
+7.4. 
+7.5. 
+7.6. 
+7.7. 
+7.8. 
+7.9. 
+7.10. 
+7.11.","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+7.1. 
+7.2. 
+7.3. 
+7.4. 
+7.5. 
+7.6. 
+7.7. 
+7.8. 
+7.9. 
+7.10. 
+7.11.","","1","Feature","","Normal","0","1","17","Lavender","2022-10-16 22:55:00","Pass","Lavender","2022-09-11","","0000-00-00","1","","",""
+"50","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Seach recipe by name","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. type &quot;to&quot; into the search box","1. open successfully
+2. Show the search page
+3. the linked area showing relationed recipes name","1. 
+2. 
+3.","","1","Feature","","Normal","0","1","3","Lavender","2022-10-16 22:55:19","Pass","Lavender","2022-09-11","","0000-00-00","1","","",""
+"49","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","“saved“ tab","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;egg&quot; into &quot;I like&quot; text input
+4. click &quot;submit&quot;
+5. see the page
+6. click the save button
+7. choose save to favourite","1. open successfully
+2. Show the search page
+3. 
+4. All the recipes&#039; include &quot;egg&quot;
+5. shows the search results page
+6. dialog pop up
+7. the recipe saved to favourite","1. 
+2. 
+3. 
+4. 
+5. 
+6. no response
+7.","","1","Feature","","Normal","0","1","7","Lavender","2022-10-16 22:55:33","Fail","Lavender","2022-09-11","Lavender","2022-09-11","2","","",""
+"48","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","“favoriate“ tab","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;egg&quot; into &quot;I like&quot; text input
+4. click &quot;submit&quot;
+5. see the page
+6. click one favoriate tab","1. open successfully
+2. Show the search page
+3. 
+4. All the recipes&#039; include &quot;egg&quot;
+5. shows the search results page
+6. the favoriate tab turn color from white to black","1. 
+2. 
+3. 
+4. 
+5. 
+6.","","1","Feature","","Normal","0","1","6","Lavender","2022-10-16 22:55:45","Pass","Lavender","2022-09-11","","0000-00-00","1","","",""
+"47","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Seach Results page jump to detailed apage","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;egg&quot; into &quot;I like&quot; text input
+4. click &quot;submit&quot;
+5. see the page
+6. click one recipe","1. open successfully
+2. Show the search page
+3. 
+4. All the recipes&#039; include &quot;egg&quot;
+5. shows the search results page
+6. jump to the recipe datailed page","1. 
+2. 
+3. 
+4. 
+5. 
+6.","","1","Feature","","Normal","0","1","6","Lavender","2022-10-16 22:55:53","Pass","Lavender","2022-09-11","","0000-00-00","1","","",""
+"46","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Seach Results page","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;egg&quot; into &quot;I like&quot; text input
+4. click &quot;submit&quot;
+5. see the search result
+6. each recipes card include
+6.1. the recipe&#039;s picture
+6.2. the recipe&#039;s name
+6.3. the recipe&#039;s cooking method
+6.4. the recipe&#039;s favoriate number
+6.5. the recipe&#039;s calories
+6.6. the recipes&#039;s average rating mark
+6.7. the recipes&#039;s save tab","1. open successfully
+2. Show the search page
+3. 
+4. All the recipes&#039; include &quot;egg&quot;
+5. include many recipes cards
+6. 
+6.1. 
+6.2. 
+6.3. 
+6.4. 
+6.5. 
+6.6. 
+6.7.","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+6.1. 
+6.2. 
+6.3. 
+6.4. 
+6.5. 
+6.6. 
+6.7.","","1","Feature","","Normal","0","1","12","Lavender","2022-10-16 22:56:00","Pass","Lavender","2022-09-11","","0000-00-00","1","","",""
+"45","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Reset","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. see the order by label
+4. click the &quot;rating&quot; 
+5. see the max calorie
+6. see the method
+7. input &quot;egg&quot; into &quot;I like&quot; text input
+8. click the &quot;reset&quot; 
+9. see the order by label
+10. see the ingredients","1. open successfully
+2. Show the search page
+3. default: popularity
+4. changed the order by rating
+5. default: 1000kj
+6. default: steaming
+7. 
+8. reset the search page
+9. default: popularity
+10. empty","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10.","","1","Feature","","Normal","0","1","10","Lavender","2022-10-16 22:56:12","Pass","Lavender","2022-09-11","","0000-00-00","1","","",""
+"44","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","delete dislike ingredient area","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;egg&quot; into &quot;I don&#039;t like&quot; text input area
+4. click &quot;+&quot; button 
+5. input &quot;tomato&quot; into &quot;I don&#039;t like&quot; text input area
+6. Swipe left on the entry and click the &quot;Delete&quot; button","1. open successfully
+2. Show the search page
+3. 
+4. show another input text area
+5. 
+6. the &quot;tomato&quot; text area missing","1. 
+2. 
+3. 
+4. 
+5. 
+6.","","1","Feature","","Normal","0","3","6","Lavender","2022-10-17 07:39:25","Pass","Lavender","2022-09-10","Lavender","2022-10-17","2","","",""
+"43","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Add two dislike ingredients","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;beef&quot; into &quot;I like&quot; text input area
+4. input &quot;egg&quot; into &quot;I don&#039;t like&quot; text input area
+5. click &quot;+&quot; button 
+6. input &quot;tomato&quot; into &quot;I don&#039;t like&quot; text input area
+7. click &quot;submit&quot;","1. open successfully
+2. Show the search page
+3. 
+4. 
+5. show another input text area
+6. 
+7. All the recipes&#039; include &quot;beef&quot; and not include &quot;egg&quot; and &quot;tomato&quot;","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7.","","1","Feature","","Normal","0","1","7","Lavender","2022-10-16 22:57:11","Pass","Lavender","2022-09-10","","0000-00-00","1","","",""
+"41","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Add one dislike ingredient","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;egg&quot; into &quot;I like&quot; text input
+4. input &quot;tomato&quot; into &quot;I don&#039;t like&quot; text input
+5. click &quot;submit&quot;","1. open successfully
+2. Show the search page
+3. 
+4. 
+5. All the recipes&#039; include &quot;egg&quot; and don&#039;t include &quot;tomato&quot;","1. 
+2. 
+3. 
+4. 
+5.","","1","Feature","","Normal","0","1","5","Lavender","2022-10-17 07:36:19","Pass","Lavender","2022-09-10","","0000-00-00","1","","",""
+"39","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","delete ingredient area","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;egg&quot; into &quot;I like&quot; text input area
+4. click &quot;+&quot; button 
+5. input &quot;tomato&quot; into &quot;I like&quot; text input area
+6. Swipe left on the entry and click the &quot;Delete&quot; button","1. open successfully
+2. Show the search page
+3. 
+4. show another input text area
+5. 
+6. the &quot;tomato&quot; text area missing","1. 
+2. 
+3. 
+4. 
+5. 
+6.","","1","Feature","","Normal","0","2","6","Lavender","2022-10-17 07:40:10","Pass","Lavender","2022-09-10","Lavender","2022-10-17","2","","",""
+"38","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Add two ingredients","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;egg&quot; into &quot;I like&quot; text input area
+4. click &quot;+&quot; button 
+5. input &quot;tomato&quot; into &quot;I like&quot; text input area
+6. click &quot;submit&quot;","1. open successfully
+2. Show the search page
+3. 
+4. show another input text area
+5. 
+6. All the recipes&#039; include &quot;egg&quot; and &quot;tomato&quot;","1. 
+2. 
+3. 
+4. 
+5. 
+6.","","1","Feature","","Normal","0","1","6","Lavender","2022-10-17 07:37:22","Pass","Lavender","2022-09-10","","0000-00-00","1","","",""
+"37","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Add one ingredient","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. input &quot;egg&quot; into &quot;I like&quot; text input
+4. click &quot;submit&quot;","1. open successfully
+2. Show the search page
+3. 
+4. All the recipes&#039; include &quot;egg&quot;","1. 
+2. 
+3. 
+4.","","1","Feature","","Normal","0","1","4","Lavender","2022-10-17 07:37:45","Pass","Lavender","2022-09-10","","0000-00-00","1","","",""
+"36","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","choose method: pan-frying","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. See the method label
+4. Click the &quot;pan-frying&quot; tab
+5. Search some ingredients","1. open successfully
+2. Show the search page
+3. default: steaming
+4. chosen the method pan-frying
+5. All the recipes&#039; method belongs to pan-frying","1. 
+2. 
+3. 
+4. 
+5.","","1","Feature","","Normal","0","1","5","Lavender","2022-10-17 07:41:38","Pass","Lavender","2022-09-10","","0000-00-00","1","","",""
+"35","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","choose method: boiling","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. See the method label
+4. Click the &quot;boiling&quot; tab
+5. Search some ingredients","1. open successfully
+2. Show the search page
+3. default: steaming
+4. chosen the method boiling
+5. All the recipes&#039; method belongs to boiling","1. 
+2. 
+3. 
+4. 
+5.","","1","Feature","","Normal","0","1","5","Lavender","2022-10-17 07:43:20","Pass","Lavender","2022-09-10","","0000-00-00","1","","",""
+"34","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","choose method: streaming","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. See the method label
+4. Search some ingredients","1. open successfully
+2. Show the search page
+3. default: steaming
+4. All the recipes&#039; method belongs to steaming","1. 
+2. 
+3. 
+4.","","1","Feature","","Normal","0","1","4","Lavender","2022-10-17 07:43:29","Pass","Lavender","2022-09-10","","0000-00-00","1","","",""
+"33","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Special needs: high fat","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. See the Special needs label
+4. Click the &quot;High fat&quot;
+5. Search some ingredients","1. open successfully
+2. Show the search page
+3. default: None
+4. chose the special needs
+5. All the recipes&#039; belongs to high fat","1. 
+2. 
+3. 
+4. 
+5.","","1","Feature","","Normal","0","1","5","Lavender","2022-10-17 07:43:31","Pass","Lavender","2022-09-10","Lavender","2022-10-17","2","","",""
+"32","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Special needs: low sugar","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. See the Special needs label
+4. Click the &quot;low sugar&quot;
+5. Search some ingredients","1. open successfully
+2. Show the search page
+3. default: None
+4. chose the special needs
+5. All the recipes&#039; belongs to low sugar","1. 
+2. 
+3. 
+4. 
+5.","","1","Feature","","Normal","0","2","5","Lavender","2022-10-17 07:45:00","Pass","Lavender","2022-09-10","Lavender","2022-10-17","2","","",""
+"31","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Special needs: low fat ","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. See the Special needs label
+4. Click the &quot;low fat &quot;
+5. Search some ingredients","1. open successfully
+2. Show the search page
+3. default: none
+4. chose special needs
+5. All the recipes&#039; belongs to low fat","1. 
+2. 
+3. 
+4. 
+5.","","1","Feature","","Normal","0","1","5","Lavender","2022-10-17 07:46:09","Pass","Lavender","2022-09-10","Lavender","2022-10-17","3","","",""
+"30","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Max Calorie 3000KJ","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. See the Calorie label
+4. Click the &quot;2000KJ&quot; button
+5. Search some ingredients","1. open successfully
+2. Show the search page
+3. default: 1000KJ
+4. set max calorie becomes to 3000KJ
+5. All the recipes&#039; calorie &lt; 3000KJ","1. 
+2. 
+3. 
+4. 
+5.","","1","Feature","","Normal","0","1","5","Lavender","2022-10-17 07:47:41","Pass","Lavender","2022-09-10","","0000-00-00","1","","",""
+"29","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Max Calorie 2000KJ","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. See the Calorie label
+4. Click the &quot;2000KJ&quot; button
+5. Search some ingredients","1. open successfully
+2. Show the search page
+3. default: 1000KJ
+4. set max calorie becomes to 2000KJ
+5. All the recipes&#039; calorie &lt; 2000KJ","1. 
+2. 
+3. 
+4. 
+5.","","1","Feature","","Normal","0","1","5","Lavender","2022-10-17 07:47:43","Pass","Lavender","2022-09-10","","0000-00-00","1","","",""
+"28","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Max Calorie 1000KJ","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. See the Calorie label
+4. Search some ingredients","1. open successfully
+2. Show the search page
+3. default: 1000KJ
+4. All the recipes&#039; calorie &lt; 1000KJ","1. 
+2. 
+3. 
+4.","","1","Feature","","Normal","0","1","4","Lavender","2022-10-17 07:47:45","Pass","Lavender","2022-09-10","","0000-00-00","1","","",""
+"27","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Order by Calorie","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. See the order by label
+4. Click the &quot;Calorie&quot; tab button
+5. Search some ingredients","1. open successfully
+2. Show the search page
+3. default: Popularity
+4. chose the &quot;Calorie&quot;
+5. Ordered by Calorie showing the recipes","1. 
+2. 
+3. 
+4. 
+5.","","1","Feature","","Normal","0","1","5","Lavender","2022-10-16 23:13:23","Pass","Lavender","2022-09-10","","0000-00-00","1","","",""
+"26","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Order by Rating","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. See the order by label
+4. Click the &quot;Ratings&quot; tab button
+5. Search some ingredients","1. open successfully
+2. Show the search page
+3. default: Popularity
+4. chose the &quot;ratings&quot;
+5. Ordered by rating showing the recipes","1. 
+2. 
+3. 
+4. 
+5.","","1","Feature","","Normal","0","1","5","Lavender","2022-10-16 23:13:25","Pass","Lavender","2022-09-10","","0000-00-00","1","","",""
+"25","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Order by default (Popularity)","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. See the order by label
+4. Search some ingredients","1. open successfully
+2. Show the search page
+3. default: Popularity
+4. Ordered by populrity showing the recipes","1. 
+2. 
+3. 
+4.","","1","Feature","","Normal","0","1","4","Lavender","2022-10-16 23:13:16","Pass","Lavender","2022-09-10","","0000-00-00","1","","",""
+"24","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/more page(#5)","","Buy us a coffee","Installed the app","1. Open the app
+2. Click the &quot;More&quot; button at the menu bar
+3. Click the &quot;Buy us a coffee&quot; button
+4. User can choose to pay some money as donate to the team","1. Open successfully, showing the home page
+2. Jump to the &quot;more&quot; page
+3. Showing the payment page
+4.","1. 
+2. 
+3. no response
+4.","","1","Feature","
+Function Testing","Normal","0","2","4","Lavender","2022-10-16 22:49:10","Fail","Lavender","2022-09-09","","0000-00-00","1","","",""
+"23","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/more page(#5)","","Contact us","Installed the app","1. Open the app
+2. Click the &quot;More&quot; button at the menu bar
+3. Click the &quot;COntact us&quot; button
+4. Input something and click submit","1. Open successfully, showing the home page
+2. Jump to the &quot;more&quot; page
+3. Showing the contact page can input some advices
+4. contact successfully","1. 
+2. 
+3. no response
+4.","","1","Feature","
+Function Testing","Normal","0","2","4","Lavender","2022-10-16 22:49:15","Fail","Lavender","2022-09-09","","0000-00-00","1","","",""
+"22","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/more page(#5)","","Bitbucket","Installed the app","1. Open the app
+2. Click the &quot;More&quot; button at the menu bar
+3. Click the &quot;bitbucket&quot; button","1. Open successfully, showing the home page
+2. Jump to the &quot;more&quot; page
+3. Link to our &quot;bitbucket&quot; website","1. 
+2. 
+3. no response","","1","Feature","
+Function Testing","Normal","0","2","3","Lavender","2022-10-16 22:49:22","Fail","Lavender","2022-09-09","","0000-00-00","1","","",""
+"21","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/more page(#5)","","Reset all data","Installed the app","1. Open the app
+2. search some ingredients
+3. find one click the &quot;saved&quot; logo button
+4. click &quot;add to saved&quot;
+5. click &quot;saved“ button on the menu bar
+6. Click &quot;More&quot; button on the menu bar
+7. Click &quot;reset all data&quot;
+8. Click &quot;yes&quot;
+9. click &quot;saved“ button on the menu bar","1. opened successfully
+2. searched successfully and shows the result
+3. showing two button &quot;add to saved&quot; and &quot;add to plan to cook&quot;
+4. the &quot;saved&quot; logo turn olor from white to black
+5. switched to the &quot;saved“ page, defalt: saved page
+the saved recipe showing in this page
+6. Jump to &quot;More&quot; page
+7. Showing the alert to let the user double check 
+8. reset succefully
+9. Jump to the &quot;saved&quot; page, and there are no recipes
+same &quot;saved&quot; and &quot;plan to cook&quot; two tabs","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. no response, still show the receipes","","1","Feature","
+Function Testing","Normal","0","2","9","Lavender","2022-10-16 22:49:42","Fail","Lavender","2022-09-09","","0000-00-00","1","","",""
+"18","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/more page(#5)","","More page include","Installed the app","1. Open the app
+2. Click the &quot;More&quot; button at the menu bar
+3. &quot;More&quot; page include:
+3.1. hitme
+3.2. see the blacklist
+3.3. reset all data
+3.4. bitbucket
+3.5. The top1 recipe&#039;s details
+3.6. contact us
+3.7. buy us a coffee","1. Open successfully, showing the home page
+2. Jump to the &quot;more&quot; page
+3. 
+3.1. 
+3.2. 
+3.3. 
+3.4. 
+3.5. 
+3.6. 
+3.7.","1. 
+2. 
+3. 
+3.1. 
+3.2. no “blacklist“ button
+3.3. 
+3.4. 
+3.5. 
+3.6. 
+3.7.","","1","Feature","
+Function Testing","Normal","0","2","9","Lavender","2022-10-16 22:49:53","Fail","Lavender","2022-09-09","Lavender","2022-10-16","3","","",""
+"17","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/saved page(#4)","","Delete a recipe to saved","Installed the app","1. Open the app
+2. search some ingredients
+3. find one click the &quot;saved&quot; logo button
+4. click &quot;add to plan to cook&quot;
+5. click &quot;saved“ button on the menu bar
+6. click the “plan to cook&quot; tab button
+7. click the recipe saved logo again
+8. click the &quot;yes&quot;","1. opened successfully
+2. searched successfully and shows the result
+3. showing two button &quot;add to saved&quot; and &quot;add to plan to cook&quot;
+4. the &quot;saved&quot; logo turn color from white to black
+5. switched to the &quot;saved“ page, defalt: saved page
+
+6. switch to &quot;plan to cook&quot; page and shows receipes
+the saved recipe showing in this page
+7. showing the alert about double check you want to delete it
+8. delete successfully, the saved page doesn&#039;t show this recipe","1. 
+2. 
+3. no response
+4. 
+5. 
+6. 
+7. 
+8.","","1","Feature","
+Function Testing","Normal","0","1","8","Lavender","2022-10-16 22:51:31","Fail","Lavender","2022-09-09","","0000-00-00","1","","",""
+"16","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/saved page(#4)","","Delete a recipe to saved","Installed the app","1. Open the app
+2. search some ingredients
+3. find one click the &quot;saved&quot; logo button
+4. click &quot;add to saved&quot;
+5. click &quot;saved“ button on the menu bar
+6. click the recipe saved logo again
+7. click the &quot;yes&quot;","1. opened successfully
+2. searched successfully and shows the result
+3. showing two button &quot;add to saved&quot; and &quot;add to plan to cook&quot;
+4. the &quot;saved&quot; logo turn olor from white to black
+5. switched to the &quot;saved“ page, defalt: saved page
+the saved recipe showing in this page
+6. showing the alert about double check you want to delete it
+7. delete successfully, the saved page doesn&#039;t show this recipe","1. 
+2. 
+3. no response
+4. 
+5. 
+6. 
+7.","","1","Feature","
+Function Testing","Normal","0","1","7","Lavender","2022-10-16 22:51:39","Fail","Lavender","2022-09-09","","0000-00-00","1","","",""
+"14","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/saved page(#4)","","Switch a recipe from plan to cook to saved","Installed tha app","1. open the app
+2. switch to search page
+3. click the “plan to cook&quot; tab button
+4. choose one recipe and put the mouse on the saved logo
+5. click &quot;add to saved&quot;
+6. back to saved page
+7. click the “plan to cook&quot; tab button","1. opened successfully
+2. defalt search page: saved tab
+3. switch to &quot;plan to cook&quot; page and shows recipes
+4. show two tab &quot;add to saved&quot; and &quot;add to plan to cook&quot;
+5. 
+6. recipe showing from &quot;saved&quot; page
+7. switch to &quot;plan to cook&quot; page
+that recipe missing from this page","1. 
+2. 
+3. no “plan to cook“ button
+4. 
+5. 
+6. 
+7.","","1","Feature","
+Function Testing","Normal","0","1","7","Lavender","2022-10-16 22:51:52","Fail","Lavender","2022-09-09","","0000-00-00","1","","",""
+"13","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/saved page(#4)","","Switch a recipe from saved to plan to cook","Installed tha app","1. open the app
+2. switch to search page
+3. choose one recipe and put the mouse on the saved logo
+4. click &quot;add to plan to cook&quot;
+5. back to saved page
+6. click the “plan to cook&quot; tab button","1. opened successfully
+2. defalt search page: saved tab
+3. show two tab &quot;add to saved&quot; and &quot;add to plan to cook&quot;
+4. 
+5. recipe missing from &quot;saved&quot; page
+6. switch to &quot;plan to cook&quot; page and shows that changed recipe","1. 
+2. 
+3. no response
+4. 
+5. 
+6.","","1","Feature","
+Function Testing","Normal","0","1","6","Lavender","2022-10-16 22:52:08","Fail","Lavender","2022-09-09","Lavender","2022-09-09","2","","",""
+"12","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/saved page(#4)","","Add a recipe to plan to cook","Installed the app","1. Open the app
+2. search some ingredients
+3. find one click the &quot;saved&quot; logo button
+4. click &quot;add to plan to cook&quot;
+5. click &quot;saved“ button on the menu bar
+6. click the &quot;plan to cook&quot; tab button","1. opened successfully
+2. searched successfully and shows the result
+3. showing two button &quot;add to saved&quot; and &quot;add to plan to cook&quot;
+4. the &quot;saved&quot; logo turn color from white to black
+5. switched to the &quot;saved“ page, defalt: saved page
+
+6. switch the page to plan to cook page
+the saved recipe showing in this page","1. 
+2. 
+3. no response
+4. 
+5. 
+6.","","1","Feature","
+Function Testing","Normal","0","1","6","Lavender","2022-10-16 22:52:28","Fail","Lavender","2022-09-09","","0000-00-00","1","","",""
+"11","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/saved page(#4)","","Add a recipe to saved","Installed the app","1. Open the app
+2. search some ingredients
+3. find one click the &quot;saved&quot; logo button
+4. click &quot;add to saved&quot;
+5. click &quot;saved“ button on the menu bar","1. opened successfully
+2. searched successfully and shows the result
+3. showing two button &quot;add to saved&quot; and &quot;add to plan to cook&quot;
+4. the &quot;saved&quot; logo turn olor from white to black
+5. switched to the &quot;saved“ page, defalt: saved page
+the saved recipe showing in this page","1. 
+2. 
+3. no response
+4. 
+5.","","1","Feature","
+Function Testing","Normal","0","1","5","Lavender","2022-10-16 22:52:44","Fail","Lavender","2022-09-09","","0000-00-00","1","","",""
+"10","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/saved page(#4)","","Open “plan to cook“ recipe","Installed tha app","1. open the app
+2. switch to search page
+3. click the &quot;plan to cook&quot; tab button
+4. choose one recipe and click it
+5. click the back button","1. opened successfully
+2. defalt search page: saved tab
+3. switch to the plan to cook recipes page
+4. jump to the recipe&#039;s detailed page
+5. return to the saved page","1. 
+2. 
+3. no “plan to cook“
+4. 
+5.","","1","Feature","
+Function Testing","Normal","0","1","5","Lavender","2022-10-16 22:52:54","Fail","Lavender","2022-09-09","","0000-00-00","1","","",""
+"9","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/saved page(#4)","","Open saved recipe","Installed tha app","1. open the app
+2. switch to search page
+3. choose one recipe and click it
+4. click the back button","1. opened successfully
+2. defalt search page: saved tab
+3. jump to the recipe&#039;s detailed page
+4. return to the saved page","1. 
+2. 
+3. 
+4.","","1","Feature","
+Function Testing","Normal","0","1","4","Lavender","2022-10-16 22:53:07","Pass","Lavender","2022-09-09","","0000-00-00","1","","",""
+"8","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/saved page(#4)","","Switch between saved and plan to cook","Installed tha app","1. open the app
+2. switch to search page
+3. click the “plan to cook&quot; tab button
+4. click the &quot;saved&quot; tab button","1. opened successfully
+2. defalt search page: saved tab
+3. switch to &quot;plan to cook&quot; page and shows receipes
+4. switch to &quot;saved&quot; page and shows receipes","1. 
+2. 
+3. no “plan to cook“ button
+4.","","1","Feature","
+Function Testing","Normal","0","1","4","Lavender","2022-10-16 22:53:21","Fail","Lavender","2022-09-09","Lavender","2022-09-09","2","","",""
+"7","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/saved page(#4)","","saved page include","Installed the app","1. Open the app
+2. Click the &quot;saved&quot; button on the meau
+3. Search page includes two parts
+3.1. saved (favorite and cooked already)
+3.2. plan to cook (haven&#039;t cook)
+4. Each parts include recipes saved by the user","1. open successfully
+2. Show the saved page
+3. 
+3.1. 
+3.2. 
+4.","1. 
+2. 
+3. 
+3.1. 
+3.2. no this button
+4.","","1","Feature","","Normal","0","1","5","Lavender","2022-10-16 22:53:33","Fail","Lavender","2022-09-09","Lavender","2022-09-09","1","","",""
+"6","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/search page(#3)","","Search page include","Installed the app","1. Open the app
+2. Click the &quot;search&quot; button on the meau
+3. Search page include
+3.1. The input area
+3.2. order by label
+3.3. max calorie label
+3.4. method label
+3.5. function label
+3.6. ingredient input
+3.7. dislike input","1. open successfully
+2. Show the search page
+3. 
+3.1. 
+3.2. 
+3.3. 
+3.4. 
+3.5. 
+3.6. 
+3.7.","1. 
+2. 
+3. 
+3.1. 
+3.2. 
+3.3. 
+3.4. 
+3.5. 
+3.6. 
+3.7.","","1","Feature","","Normal","0","1","9","Lavender","2022-10-17 07:35:28","Pass","Lavender","2022-09-05","","0000-00-00","1","","",""
+"5","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/home page(#2)","","Can see the recepies picature large version","Installed the app","1. Open the app
+2. Click one recepie picture","1. open successfully
+2. The picature will show the large version","1. 
+2.","","1","Feature","
+Function Testing","Normal","0","2","2","Lavender","2022-10-16 22:50:20","Pass","Lavender","2022-09-05","","0000-00-00","1","","",""
+"4","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/home page(#2)","","Can see the recepies details","Installed the app","1. Open the app
+2. Click one recepie","1. open successfully
+2. Can jump to recepie details page","1. 
+2.","","1","Feature","
+Function Testing","Normal","0","2","2","Lavender","2022-10-16 22:50:21","Pass","Lavender","2022-09-05","","0000-00-00","1","","",""
+"3","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/home page(#2)","","Can scroll up and down the page to see more recipes","Installed the app","1. Open the app
+2. Scroll down the page
+3. Scroll up the page","1. open successfully
+2. See more recepies
+3. Can back to the top 1","1. 
+2. 
+3.","","1","Feature","
+Function Testing","Normal","0","2","3","Lavender","2022-10-16 22:50:23","Pass","Lavender","2022-09-05","","0000-00-00","1","","",""
+"2","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/home page(#2)","","Home page include","Installed the app","1. Open the app
+2. Home page include:
+2.1. &quot;Top receipes&quot; title
+2.2. The top1 recipe&#039;s picture
+2.3. The top1 recipe&#039;s Calorie
+2.4. The top1 recipe&#039;s details
+2.5. Menu bar at the bottom of the app","1. Open successfully, showing the home page
+2. 
+2.1. 
+2.2. 
+2.3. 
+2.4. 
+2.5.","1. 
+2. 
+2.1. 
+2.2. 
+2.3. 
+2.4. 
+2.5.","","1","Feature","
+Function Testing","Normal","0","2","6","Lavender","2022-10-16 22:50:26","Pass","Lavender","2022-09-05","Lavender","2022-09-09","1","","",""
+"1","P52-Recipe Recommendation and Diet Management based on Selected Food.(#1)","/loading page(#6)","","Success showing loading page.","Installed our app on an iOS iphone or a simulator.","1. Open the app on the desktop of a phone 
+2. Showing the loading page. 
+3. Wait 10 seconds","1. Can open
+2. Including the logo of our product. 
+3. Will jump into the app and show the home page.","1. 
+2. no loading page
+3.","loading page","1","Feature","
+Function Testing","Normal","0","2","3","Lavender","2022-10-16 22:48:07","Fail","Lavender","2022-09-04","Lavender","2022-09-04","1","","",""
