@@ -61,6 +61,10 @@ Here are the raw file:
 Or  
 [P52-Recipe Recommendation and Diet Management based on Selected Food.-first function test-Case.csv](./week10/test.csv)  
 
+As the project team, I researched a lot about how to do the unit testing and UI testing using the XCtest.
+[*Research:*]   
+![Research:](./week10/research.png)  
+
 As part of the project team, I tried to write the unit testing for our project. But I failed in the import module, it always told me that “no such module..”. I researched a lot but still now haven’t handled this problem. 
 [*Unit_testing:*]   
 ![Unit_testing:](./week10/unit_testing.png)  
@@ -68,13 +72,9 @@ As part of the project team, I tried to write the unit testing for our project. 
 ![Research_bug:](./week10/no_module.png)  
 
 ## Quality of technical work done
-I contributed to chosing to use zentao platform to ensures that our function testings are complete and viewable. On the Zentao platform, I can create each test case clearly. It includes each test case running prerequisite, the test cases belonging to which modules, the testing type, the priority, the test case current status and so on information. And It shows each step clearly, when executing the test case, can directly record the result when clicking the “run” button. It can record each step's running result such as “pass”, “fail”, “blocked” and so on    
+I use the Zentao platform 
 [*quality_zentao*]    
 ![quality_zentao](./other/quality_zentao.png)
-
-I contributed to choosing to use Equivalence partitioning and Boundary testing two methods to ensure that our test cases coverage is good. For example, we write a test case where some boundary value that the input node must at least exist one. Using these techniques can improve our test cases quality and can make our test cases more comprehensive and complete in design.  
-[*quality_method*]    
-![quality_method](./other/quality_method.png)
 
 ## Other contributions to group processes
 I contributed to attending meetings every time. I have not missed a group meeting or meeting with a client. And I contributed to recording feedback from every meeting with clients.   
