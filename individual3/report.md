@@ -44,19 +44,19 @@ As a Bitbucket expert, I made sure that our week 9 wiki was complete and that th
 [*Wiki:*]   
 ![Wiki](./week9/wiki.png)  
 
-As part of the project team, I set up the unit testing environment. First I chose a new target belonging to the “Unit Testing Bundle”, and then I initiated the parameters for our project.
+As part of the project team, I set up the unit testing environment. First I chose a new target belonging to the “Unit Testing Bundle”, and then I initiated the parameters for our project.  
 [*Unit_testing:*]   
 ![Unit_testing:](./week9/unit_testing.png)  
 
 ### week 10
-As the report writer, I assembled and worked with the rest of the project team to complete the week11 progressive report.
+As the report writer, I assembled and worked with the rest of the project team to complete the week11 progressive report.    
 [*Progressive_report:*]   
 ![Progressive_report:](./week10/progressive.png)  
 
-As a group team member, in the ninth week, I did the first functional test, because our project was modified during the actual development process and the original design, so I first cut our use case before testing and Edit, in the end, I actually tested 55 test cases, 33 passed, and still 22 are currently showing results that are not as expected, because our development is not complete, and there is a part of the code that has not been merged into the master branch.
+As a group team member, in the ninth week, I did the first functional test, because our project was modified during the actual development process and the original design, so I first cut our use case before testing and Edit, in the end, I actually tested 55 test cases, 33 passed, and still 22 are currently showing results that are not as expected, because our development is not complete, and there is a part of the code that has not been merged into the master branch.    
 [*Test_report:*]   
-![Test_report:](./week10/test.png)  
-Here are the raw file:  
+![Test_report:](./week10/test.png)    
+Here are the raw file:    
 [P52-Recipe Recommendation and Diet Management based on Selected Food.-first function test-Case.html](./week10/P52-Recipe%20Recommendation%20and%20Diet%20Management%20based%20on%20Selected%20Food.-first%20function%20test-Case.html)  
 Or  
 [P52-Recipe Recommendation and Diet Management based on Selected Food.-first function test-Case.csv](./week10/test.csv)  
@@ -67,11 +67,11 @@ Or
 [*Test_report_graph:*]   
 ![Test_report_graph:](./week10/graph.png)  
 
-As the project team, I researched a lot about how to do the unit testing and UI testing using the XCtest.
+As the project team, I researched a lot about how to do the unit testing and UI testing using the XCtest.    
 [*Research:*]   
 ![Research:](./week10/research.png)  
 
-As part of the project team, I tried to write the unit testing for our project. But I failed in the import module, it always told me that “no such module..”. I researched a lot but still now haven’t handled this problem. 
+As part of the project team, I tried to write the unit testing for our project. But I failed in the import module, it always told me that “no such module..”. I researched a lot but still now haven’t handled this problem.     
 [*Unit_testing:*]   
 ![Unit_testing:](./week10/unit_testing.png)  
 [*Research_bug:*]   
